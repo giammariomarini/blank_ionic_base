@@ -1,0 +1,7 @@
+{
+  "name": "prova_err",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
